@@ -1,6 +1,6 @@
 # Email Bomber #
 
-Use this tool to spam a person's email
+Use this tool to spam a person's email..
 
 <b> Use this tool for educational purpose only !! </b>
 
